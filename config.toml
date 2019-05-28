@@ -1,0 +1,7 @@
+baseURL = "http://tzchat.ostez.com/"
+languageCode = "en-us"
+title = "TzChat: Tezos Chat"
+theme = "ananke"
+
+[params]
+  featured_image = "/images/henri-dignity.jpg"
