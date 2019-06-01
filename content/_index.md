@@ -1,5 +1,5 @@
 ---
-title: "TzChat"
+title: "Tezos Chat Rooms"
 ---
 
 What to chat about Tezos? Here are several popular places.
