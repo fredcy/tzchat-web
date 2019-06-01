@@ -2,12 +2,13 @@
 title: "Tezos Chat Rooms"
 ---
 
-What to chat about Tezos? Here are several popular places.
+Want to chat about Tezos? Here are several popular places.
 
 ## Riot (Matrix)
 
 + [riot.tzchat.org](https://riot.tzchat.org) is for registering and launching Riot for a tzchat.org account.
-([riot.im](https://riot.im) is the same for a matrix.org account)
+([riot.im](https://riot.im) is the same for a matrix.org account).
+See [details about the tzchat.org service](/pages/tzchat).
 
 + [#tezos:matrix.org](https://riot.tzchat.org/#/room/#tezos:matrix.org) is the main chat room for Tezos on Matrix. 
 
@@ -18,7 +19,8 @@ What to chat about Tezos? Here are several popular places.
 ## IRC
 
 `#tezos` channel on freenode
-(bridged to [#tezos room](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) on Matrix).
+(bridged to [#tezos room](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) on Matrix):
+`/join #tezos`.
 
 ## Slack
 

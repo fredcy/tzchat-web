@@ -2,9 +2,10 @@ baseURL = "http://dev.tzchat.org/"
 languageCode = "en-us"
 title = "TzChat: Tezos Chat"
 theme = "ananke"
-
+sectionPagesMenu = "main"
 
 [params]
   featured_image = "/images/henri-dignity.jpg"
   logo = "/images/TezosBlueLogo.png"
   custom_css = ["css/custom.css"]
+
