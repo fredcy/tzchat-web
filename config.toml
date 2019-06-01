@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "TzChat: Tezos Chat"
 theme = "ananke"
 
+
 [params]
   featured_image = "/images/henri-dignity.jpg"
+  logo = "/images/TezosBlueLogo.png"
+  custom_css = ["css/custom.css"]
