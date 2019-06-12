@@ -1,4 +1,4 @@
 publish:
-	rm -r public
+	@-rm -r public
 	hugo
-	rsync -av --delete public/ tzchat.org:/var/www/dev.tzchat
+	rsync -rlv --delete public/ tzchat.org:/var/www/tzchat

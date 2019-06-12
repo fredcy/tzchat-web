@@ -1,4 +1,4 @@
-baseURL = "http://dev.tzchat.org/"
+baseURL = "http://tzchat.org/"
 languageCode = "en-us"
 title = "TzChat: Tezos Chat"
 theme = "ananke"

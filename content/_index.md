@@ -1,34 +1,36 @@
 ---
 title: "Tezos Chat Rooms"
+description: "TzChat: Chat rooms for the Tezos Community"
 ---
 
 Here are some popular[^1] places to chat about [Tezos](https://tezos.com/)
 
 [^1]: No doubt what's here is a biased view of what's available. [Additions and corrections](https://github.com/fredcy/tzchat-web/issues) to the list of chat places are welcome.
 
-## Riot (Matrix)
+## Riot
 
-+ [riot.tzchat.org](https://riot.tzchat.org) is the **Riot** host for the
-[new **tzchat.org** server in *Matrix*](/pages/tzchat),
-home to Tezos chat rooms with the
-bantering of OGs dating back to mid 2017.  Register there for a tzchat.org
++ [riot.tzchat.org](https://riot.tzchat.org) is the Riot host for the
+[new *tzchat.org* server](/pages/tzchat) in the *Matrix* federation,
+home to chat rooms with the
+bantering of Tezos OGs dating back to mid 2017.  Register there for a tzchat.org
 account; login and launch Riot from there to access all Tezos rooms in Matrix.
 [#tezos:matrix.org](https://riot.tzchat.org/#/room/#tezos:matrix.org) is the main chat room for Tezos on Matrix. 
 
-+ [riot.im](https://riot.im) is the Riot host for existing matrix.org accounts.
++ [riot.im](https://riot.im) is the Riot host for existing matrix.org accounts, accessing the same Matrix rooms as riot.tzchat.org.
 
 ## Telegram
 
-+ [Tezos Platform](https://t.me/tezosplatform) is the TG home to many more Tezos
++ [Tezos Platform](https://t.me/tezosplatform) is the TG home to many Tezos
 OGs who like lots of the same gifs[^2] in their chat.
 [^2]: Just kidding.
 
-+ [Tezos Announcements](https://t.me/TezosAnnouncements) is a finely curated announcement-only room of the best Tezos news.
++ [Tezos Announcements](https://t.me/TezosAnnouncements) is a curated announcement-only room of Tezos news.
 
 ## IRC
 
-+ `#tezos` channel on freenode
++ `#tezos` channel on freenode IRC
 (bridged to [#tezos room](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) on Matrix) was started by Tezos core devs back in the day and still has top tech minds lurking and helping out.
+<br>
 `/join #tezos`.
 
 ## Slack
