@@ -1,11 +1,11 @@
 baseURL = "http://tzchat.org/"
 languageCode = "en-us"
-title = "TzChat: Tezos Chat"
+title = "TzChat"
 theme = "ananke"
 sectionPagesMenu = "main"
 
 [params]
-  featured_image = "/images/henri-dignity.jpg"
+  featured_image = "/images/bence-balla-schottner-1412057-unsplash-2.jpg"
   logo = "/images/TezosBlueLogo.png"
   custom_css = ["css/custom.css"]
 

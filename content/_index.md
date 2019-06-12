@@ -1,6 +1,6 @@
 ---
 title: "Tezos Chat Rooms"
-description: "TzChat: Chat rooms for the Tezos Community"
+description: "Where the Tezos Community chats"
 ---
 
 Here are some popular[^1] places to chat about [Tezos](https://tezos.com/)

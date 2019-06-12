@@ -23,6 +23,10 @@ No, you don't. You can keep using your existing account (probably at
 matrix.org). But you are likely to get faster response times to messages if you
 use the dedicated Matrix server at tzchat.org.
 
+## Why do I get "Unable to login: null" when trying to login from the mobile app?
+
+For now we need to use `https://tezos.modular.im` as the *Home Server URL* when logging in via a mobile app. Trying to use the natural value of `https://tzchat.org` will result in that error. Sorry, we're working on fixing that.
+
 ## Where is a directory of public Tezos rooms on Matrix?
 
 See the [tzchat.org room directory](https://riot.tzchat.org/#/home), or use the `!rooms` command in the
@@ -43,3 +47,19 @@ chat space "Riot" is a bit like calling the web as "Firefox" or email as
 client for accessing Matrix rooms and is available as independent apps for web,
 desktop-app (via electron), iOS, and Android.
 
+## Can I create a username with capital letters and dashes like before?
+
+The Matrix protocol no longer allows capital letters in usernames, but dashes are still allowed.
+
+You can still change your *display name* to practically anything though.
+
+## Why does my display name in Riot appear with my username after it?
+
+Riot seems to automatically add the username info when there are multiple members in the room with the same display name. This can happen when you have the same display name for both matrix.org and tzchat.org accounts.
+
+## Are all chat rooms from matrix.org available on tzchat.org?
+
+Yes, they are. The Matrix protocol is all about sharing rooms in exactly that way.
+The fact that a room has, say, ":matrix.org" in its name does not restrict where it can be joined.
+
+However, invitation-only rooms will still require an invitation to join. You can send an invitation from your old matrix.org to your new tzchat.org one if necessary.

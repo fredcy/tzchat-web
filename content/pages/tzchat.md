@@ -20,6 +20,8 @@ Riot.
 To **login** to a tzchat.org account, visit the same [entry
 page](https://riot.tzchat.org/#/welcome).
 
+For **mobile app users**: Note that for now you must enter *Home Server URL* as `https://tezos.modular.im`.
+
 For a list of some popular Tezos rooms, visit the [home/directory page](https://riot.tzchat.org/#/home) and click `View Rooms`.
 
 [^1]: The matrix.org servers are overloaded because they are the default for new Matrix/Riot users and are provided for free by New Vector who do a heroic job in providing and maintaining the free service.
