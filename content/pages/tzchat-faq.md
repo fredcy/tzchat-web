@@ -23,6 +23,14 @@ No, you don't. You can keep using your existing account (probably at
 matrix.org). But you are likely to get faster response times to messages if you
 use the dedicated Matrix server at tzchat.org.
 
+## How do I rejoin a private room with my new account?
+
+Invite your new account from your old account.
+
+## How do I get back elevated permissions that I had in a room?
+
+Grant your new account those same permissions (such as moderator status) from your old account.
+
 ## Why do I get "Unable to login: null" when trying to login from the mobile app?
 
 For now we need to use `https://tezos.modular.im` as the *Home Server URL* when logging in via a mobile app. Trying to use the natural value of `https://tzchat.org` will result in that error. Sorry, we're working on fixing that.
@@ -63,3 +71,13 @@ Yes, they are. The Matrix protocol is all about sharing rooms in exactly that wa
 The fact that a room has, say, ":matrix.org" in its name does not restrict where it can be joined.
 
 However, invitation-only rooms will still require an invitation to join. You can send an invitation from your old matrix.org to your new tzchat.org one if necessary.
+
+## How do I login to the Riot desktop app?
+
+When logging in, click the *Change* link. Set the *Homeserver URL* value to `https://tezos.modular.im`, click *Next*, then sign in with your username and password for tzchat.org.
+
+## What about People / DM chats started from my matrix.org account?
+
+You can invite your new tzchat.org address to such rooms. 
+People rooms (aka DMs) in Matrix are really just a special case of rooms in general, and can be enlarged to more than just two participants.
+
