@@ -27,13 +27,17 @@ use the dedicated Matrix server at tzchat.org.
 
 Invite your new account from your old account.
 
-## How do I get back elevated permissions that I had in a room?
+## How do I get back moderator permissions that I had in a room?
 
-Grant your new account those same permissions (such as moderator status) from your old account.
+Some rooms are set up such that you can grant moderator status to your new account while logged in from your old account.
+
+If you cannot change the new account status from the old you'll have to ask a room admin to do that for you. Ask from your old account since that one is trusted.
 
 ## Why do I get "Unable to login: null" when trying to login from the mobile app?
 
-For now we need to use `https://tezos.modular.im` as the *Home Server URL* when logging in via a mobile app. Trying to use the natural value of `https://tzchat.org` will result in that error. Sorry, we're working on fixing that.
+For now we need to use `https://tezos.modular.im` as the *Home Server URL* when logging in via a mobile app. You may need to select "Advanced" options when logging in to see option. Trying to use the natural value of `https://tzchat.org` will result in that error. Sorry, we're working on fixing that.
+
+On some Riot apps it works to simply enter your full Matrix username, like "@joe:tzchat.org" as the username (rather than just "joe"). From the full username the app can determine the server name and fill it in automatically. When this doesn't work, try specifying the Homeserver name manually as above.
 
 ## Where is a directory of public Tezos rooms on Matrix?
 
@@ -70,11 +74,13 @@ Riot seems to automatically add the username info when there are multiple member
 Yes, they are. The Matrix protocol is all about sharing rooms in exactly that way.
 The fact that a room has, say, ":matrix.org" in its name does not restrict where it can be joined.
 
-However, invitation-only rooms will still require an invitation to join. You can send an invitation from your old matrix.org to your new tzchat.org one if necessary.
+However, invitation-only rooms will still require an invitation to join. You can send an invitation from your old matrix.org account to your new tzchat.org one if necessary.
 
 ## How do I login to the Riot desktop app?
 
-When logging in, click the *Change* link. Set the *Homeserver URL* value to `https://tezos.modular.im`, click *Next*, then sign in with your username and password for tzchat.org.
+When logging in, enter your full Matrix acccount ID (like `@joe:tzchat.org`) as username. The app should be able to determine the homeserver automatically, so you can just then enter your password too and proceed with logging in.
+
+If the above does not work, click the *Change* link. Set the *Homeserver URL* value to `https://tezos.modular.im`, click *Next*, then sign in with your username and password for tzchat.org.
 
 ## What about People / DM chats started from my matrix.org account?
 
