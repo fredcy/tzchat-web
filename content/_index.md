@@ -36,9 +36,9 @@ OGs who like lots of the same gifs[^2] in their chat.
 ## Slack
 
 + Obsidian runs a [Baking Slack](https://tezos-baking.slack.com).
-Important announcements to the baking community often happen here first.
+Important announcements to the baking community often happen there first.
 Bakers jointly resolve tech problems, including Ledger issues.
-If you bake Tezos you want to at least follow announcements here.
+If you bake Tezos you want to at least follow announcements there.
 Request an invitation at [tezos@obsidian.systems](mailto:tezos@obsidian.systems).
 
 ## Discord
