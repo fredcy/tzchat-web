@@ -1,6 +1,6 @@
 ---
 title: "tzchat.org Riot/Matrix service"
-date: "2017-06-01"
+date: "2019-06-01"
 ---
 
 Thanks to a
