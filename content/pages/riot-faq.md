@@ -9,7 +9,8 @@ Disable the *Enable Community Filter Panel* setting in Settings > Preferences, t
 
 ## How do I change Riot settings?
 
-The gear icon at lower left in the Riot app leads to a page of user settings that apply across all rooms. Make whatever changes you want there and then dismiss the page by clicking the “X” at upper right. (There is no `Save` button.)
+For the web and desktop apps, user settings are found by clicking ones display name (at upper left) and then clicking `Settings`, which
+leads to a page of user settings that apply across all rooms. Make whatever changes you want there and then dismiss the page by clicking the “X” at upper right. (There is no `Save` button.)
 
 ## The theme sucks; how can change it?
 
@@ -53,4 +54,10 @@ The above requires a shift+return after the quoted text, then another to introdu
 ## Riot seems all messed up; what can I do?
 
 The Riot app occasionally gets into a bad way where things are not displayed correctly. In such cases it usually helps to clear the Riot cache. Go into user settings, scroll way down and click the “Clear Cache and Reload” button near the bottom. 
+
+## How can I have Riot display URL/link previews?
+
+In user settings in the Preferences tab, enable the "Enable inline URL previews by default" setting.
+
+Each room has a default setting for URL-previews set by the room admins. To override that setting if necessary, visit the room's settings (via gear icon in header above room messages) and use the "Enable URL previews for this room" setting in the General tab.
 

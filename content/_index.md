@@ -1,6 +1,6 @@
 ---
 title: "Tezos Chat Rooms"
-description: "Where the Tezos Community chats"
+description: "Where the Tezos community chats"
 ---
 
 Here are some popular[^1] places to chat about [Tezos](https://tezos.com/)
@@ -40,6 +40,11 @@ Important announcements to the baking community often happen there first.
 Bakers jointly resolve tech problems, including Ledger issues.
 If you bake Tezos you want to at least follow announcements there.
 Request an invitation at [tezos@obsidian.systems](mailto:tezos@obsidian.systems).
+
+## Reddit
+
+The [/r/tezos](https://www.reddit.com/r/tezos/) subreddit is active and has an associated [subchat](https://www.reddit.com/chat/r/tezos/channel/497913_1e264cb668b5398d174558c97dc597bfa9e8944c). Talk about prices in[/r/tezostrader](https://www.reddit.com/r/tezostrader/).
+Talk about baking services and delegation in [/r/tezosdelegate](https://www.reddit.com/r/tezosdelegate/).
 
 ## Discord
 
