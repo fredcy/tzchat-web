@@ -26,10 +26,19 @@ Visit https://riot.tzchat.org and click `Sign In`. Enter your username[^3] and p
 
 Once signed in, click the `+` next to ROOMS in the left pane to see a directory of some major rooms. Click a room name of interest, then click the `Join the discussion` button to join that room.
 
-A few rooms require an invitation to join. If interested, after introducing yourself in a public room, ask for an invitation.
+Here are some major rooms.
+
++ [Tezos](https://riot.tzchat.org/#/room/#tezos:matrix.org) &mdash; general Tezos chat.
++ [Tech](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) &dash; tech/dev chat, bridged to #tezos on freenode IRC (low traffic)
++ [Tezos Trader](https://riot.tzchat.org/#/room/#tezostrader:tzchat.org) &mdash; Tezos trading (bulls with invites only)
++ [Tezos Media](https://riot.tzchat.org/#/room/#tezosmedia:matrix.org) &mdash; media links of interest, with some evaluation
+
+You can use the `!rooms` command in several of those rooms to get a longer list from the bot.
+
+A few rooms require an invitation to join. If interested, ask for an invitation after introducing yourself in a public room.
 
 ## Get help
 
 See the FAQ pages for [TzChat](/pages/tzchat-faq) and [Riot](/pages/riot-faq) on this site.
 
-You can also ask for help in any of the rooms and someone should steer you in the right direction.
+You can also ask for help in any of the rooms above and someone should steer you in the right direction.
