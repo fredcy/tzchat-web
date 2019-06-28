@@ -14,7 +14,7 @@ Here are some popular[^1] places to chat about [Tezos](https://tezos.com/)
 home to chat rooms with the
 bantering of Tezos OGs dating back to mid 2017.  Register there for a tzchat.org
 account; login and launch Riot from there to access all Tezos rooms in Matrix.
-[#tezos:matrix.org](https://riot.tzchat.org/#/room/#tezos:matrix.org) is the main chat room for Tezos on Matrix. 
+[#tezos:matrix.org](https://riot.tzchat.org/#/room/#tezos:matrix.org) is the main chat room for Tezos on Matrix. See the [get-started](/pages/get-started) page for more info.
 
 + [riot.im](https://riot.im) is the Riot host for existing matrix.org accounts, accessing the same Matrix rooms as riot.tzchat.org.
 
