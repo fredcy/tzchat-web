@@ -7,7 +7,7 @@ Here are some popular[^1] places to chat about [Tezos](https://tezos.com/)
 
 [^1]: No doubt what's here is a biased view of what's available. [Additions and corrections](https://github.com/fredcy/tzchat-web/issues) to the list of chat places are welcome.
 
-## Riot
+## Riot / Matrix
 
 + [riot.tzchat.org](https://riot.tzchat.org) is the Riot host for the
 [new *tzchat.org* server](/pages/tzchat) in the *Matrix* federation,
@@ -49,3 +49,13 @@ Talk about baking services and delegation in [/r/tezosdelegate](https://www.redd
 ## Discord
 
 If Tezos is being frequently discussed in Discord, those servers are not well known in the above chat worlds 
+
+## Discourse
+
+The [tezos.community forum](https://forums.tezos.community/), while not chat per se, has some conversations about Tezos.
+
+## Tezos Stack Exchange
+
+While the above chat rooms can be a good source of interactive help, the [Tezos
+StackExchange](https://tezos.stackexchange.com/) site has the answers to many
+questions about Tezos and is a good place to post new questions.
