@@ -52,7 +52,7 @@ If Tezos is being frequently discussed in Discord, those servers are not well kn
 
 ## Discourse
 
-The [tezos.community forum](https://forums.tezos.community/), while not chat per se, has some conversations about Tezos.
+The [Tezos Agora Forum](https://forum.tezosagora.org/) is a place to discuss and learn about the long-term direction of the Tezos project.
 
 ## Tezos Stack Exchange
 
