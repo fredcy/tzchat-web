@@ -29,9 +29,8 @@ OGs who like lots of the same gifs[^2] in their chat.
 ## IRC
 
 + `#tezos` channel on freenode IRC
-(bridged to [#tezos room](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) on Matrix) was started by Tezos core devs back in the day and still has top tech minds lurking and helping out.
-<br>
-`/join #tezos`.
+(bridged to [#tezos room](https://riot.tzchat.org/#/room/#freenode_#tezos:matrix.org) on Matrix) was started by Tezos core devs back in the day and still has top tech minds lurking and helping out.  
+`/join #tezos`
 
 ## Slack
 
