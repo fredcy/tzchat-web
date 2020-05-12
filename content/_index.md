@@ -47,7 +47,8 @@ Talk about baking services and delegation in [/r/tezosdelegate](https://www.redd
 
 ## Discord
 
-If Tezos is being frequently discussed in Discord, those servers are not well known in the above chat worlds 
+The *Tezos Blockchain* Discord server is getting active.
+Here's [an invitation link](https://discord.gg/VyngBFT).
 
 ## Discourse
 
