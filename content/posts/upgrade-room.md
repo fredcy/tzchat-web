@@ -9,7 +9,7 @@ description: Several Tezos rooms at Matrix/Riot are being replaced by new rooms 
 
 # Tezos rooms upgraded at Matrix/Riot
 
-As of late April, 2020, several Tezos rooms at Matrix/Riot are being replaced with new versions (at the same addresses as before) that use the latest room protocol.
+As of May, 2020, several Tezos rooms at Matrix/Riot are being replaced with new versions (at the same addresses as before) that use the latest room protocol.
 
 TL;DR:  **If you visit an old Tezos room, click the link that says "The conversation continues here" to get to the new room.**
 
@@ -32,6 +32,6 @@ The old room protocol version 1 has some serious defects, such as regularly losi
 The Matrix server and clients support an "upgrade room" process that essentially creates a new room to replace the old one and gives members an easy way to find that new room. We ran that process to create each new replacement room.
 
 
-[^1]: I've resisted doing the upgrade partly because the room membership starts from scratch. The old main room has 7688 members, one of the largest in the Matrix system. Realistically though, only a few dozen people seem to visit regularly.
+[^1]: I've resisted doing the upgrade partly because the room membership starts from scratch. The old main room has 7748 members, one of the largest in the Matrix system. Realistically though, only a few dozen people seem to visit regularly.
 
 @fredcy
