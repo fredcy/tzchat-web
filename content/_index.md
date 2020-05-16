@@ -42,12 +42,13 @@ Request an invitation at [tezos@obsidian.systems](mailto:tezos@obsidian.systems)
 
 ## Reddit
 
-The [/r/tezos](https://www.reddit.com/r/tezos/) subreddit is active and has an associated [subchat](https://www.reddit.com/chat/r/tezos/channel/497913_1e264cb668b5398d174558c97dc597bfa9e8944c). Talk about prices in[/r/tezostrader](https://www.reddit.com/r/tezostrader/).
+The [/r/tezos](https://www.reddit.com/r/tezos/) subreddit is active and has an associated [subchat](https://www.reddit.com/chat/r/tezos/channel/497913_1e264cb668b5398d174558c97dc597bfa9e8944c). Talk about prices in [/r/tezostrader](https://www.reddit.com/r/tezostrader/).
 Talk about baking services and delegation in [/r/tezosdelegate](https://www.reddit.com/r/tezosdelegate/).
 
 ## Discord
 
-If Tezos is being frequently discussed in Discord, those servers are not well known in the above chat worlds 
+The *Tezos Blockchain* Discord server is getting active.
+Here's [an invitation link](https://discord.gg/VyngBFT).
 
 ## Discourse
 
