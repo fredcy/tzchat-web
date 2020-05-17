@@ -11,7 +11,7 @@ description: Several Tezos rooms at Matrix/Riot are being replaced by new rooms 
 
 As of May, 2020, several Tezos rooms at Matrix/Riot are being replaced with new versions (at the same addresses as before) that use the latest room protocol.
 
-TL;DR:  **If you visit an old Tezos room, click the link that says "The conversation continues here" to get to the new room.**
+TL;DR:  **If you visit an old Tezos room and see a message about "*This room has been replaced and is no longer active*", click the link that says "The conversation continues here" to get to the new room.**
 
 ### What
 
